@@ -1,0 +1,5 @@
+name: install-deno
+type: shell
+commands:
+  - bash /install-deno/install.sh
+  - rm -rf /install-deno
